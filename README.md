@@ -2,8 +2,8 @@
 
 Full-stack project from FullStack course.
 
-Live: [Your Live Site Link]
+Live: https://lnkd.in/dq7i2sC5
 
-Code: [Your Github Project Repository Link]
+Code: https://lnkd.in/dq5SawHj
 
 Built with: HTML and CSS.
